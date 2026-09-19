@@ -35,7 +35,7 @@
 
 ---
 
-### 🚀 Мои MVP проекты
+###  Мои MVP проекты
 * **Remote Pc Hub**  фронтенд-приложение для удаленного контроля машиной через SSH прямо в браузере на React / JS (подробнее в репо).
 * **J.A.R.V.I.S.**  фронтенд-приложение голосового помощника с большим функционалом (подробнее в репо).
 
@@ -51,6 +51,15 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R31tr0&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/R33tr0/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16a1b" alt="LeetCode" />
+  </a>
+  <a href="https://www.codewars.com/users/R31tr0">
+    <img src="https://img.shields.io/badge/Codewars-B1151E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
 </p>
 ---
 
