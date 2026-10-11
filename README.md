@@ -1,72 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Привет%20%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=220&section=header&text=R31tr0&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Frontend%20%2F%20React%20Developer&descSize=20&descAlignY=58" width="100%" />
 </div>
 
-<h3 align="center"> Junior Frontend / React Native Developer</h3>
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Ready%20for%20Production-success?style=for-the-badge&color=7c3aed" alt="Status" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20JavaScript-blue?style=for-the-badge&color=2563eb" alt="Stack" />
+  
+  <img src="https://img.shields.io/github/followers/R31tr0?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=555555" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/R31tr0?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=777777" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Ready%20for%20Production-2d2d2d?style=for-the-badge&labelColor=000000" alt="Status" />
 </p>
 
 ---
 
-###  Обо мне
-*  Разрабатываю современные веб-приложения и мобильные интерфейсы на **JavaScript, TypeScript, React и React Native (Expo)**.
-*  Создаю MVP-проекты, настраиваю интерактивные UI/UX решения, анимации и тд.
-*  В работе использую **Fedora Linux**, VS Code, Git, Figma и Docker.
-*  Фокусируюсь на чистом коде и производительности.
+### 🛠 Технологический стек
 
----
-
-###  Технологический стек
-
-<div align="center">
-
-| Категория | Технологии |
-| :--- | :--- |
-| **Frontend & Mobile** | `JavaScript (ES6+)`, `TypeScript`, `React`, `React Native`, `Expo`, `Jquery` |
-| **State & Libraries** | `Zustand`, `React-Leaflet`, `Framer Motion`, `Lucide React`, `Axios` |
-| **Styling & UI** | `HTML5`, `CSS3 / SCSS`, `Tailwind CSS`, `Bootstrap` |
-| **Tools & Back-end** | `Vite`, `Git`, `REST API`, `Axios`, `WebSockets`, `Docker`, `Node.js` |
-| **Environment** | `Linux (Fedora)`, `VS Code`, `npm / yarn` |
-
-</div>
-
----
-
-###  Мои MVP проекты
-* **Remote Pc Hub**  фронтенд-приложение для удаленного контроля машиной через SSH прямо в браузере на React / JS (подробнее в репо).
-* **J.A.R.V.I.S.**  фронтенд-приложение голосового помощника с большим функционалом (подробнее в репо).
-
----
-
-### моя статистика
- 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,bootstrap,jquery&perline=9" alt="Frontend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,nodejs,git,docker,figma,vscode,linux,npm&perline=9" alt="Tools" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R31tr0&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=9ca3af" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R31tr0&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R31tr0&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R31tr0&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9c9c9&dates=9ca3af" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🚀 Мои MVP проекты
+
 <p align="center">
-  <a href="https://leetcode.com/u/R33tr0/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16a1b" alt="LeetCode" />
+  <a href="https://github.com/R31tr0/Remote-Pc-Hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R31tr0&repo=Remote-Pc-Hub&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=9ca3af" alt="Remote Pc Hub" />
   </a>
-  <a href="https://www.codewars.com/users/R31tr0">
-    <img src="https://img.shields.io/badge/Codewars-B1151E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  <a href="https://github.com/R31tr0/cli-analyser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R31tr0&repo=cli-analyser&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=9ca3af" alt="cli-analyser" />
+  </a>
+  <a href="https://github.com/R31tr0/Restock-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R31tr0&repo=Restock-Tracker&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=9ca3af" alt="Restock-Tracker" />
+  </a>
+  <a href="https://github.com/R31tr0/Jarvis-voice-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R31tr0&repo=Jarvis-voice-agent&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=9ca3af" alt="Jarvis-voice-agent" />
   </a>
 </p>
+
 ---
 
 ### 🔗 Где меня найти
-* 🐙 GitHub: [github.com/R31tr0](https://github.com/R31tr0)
-* 📱 Telegram: `@idcamselff`
+
+<p align="center">
+  <a href="https://github.com/R31tr0">
+    <img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/idcamselff">
+    <img src="https://img.shields.io/badge/Telegram-2d2d2d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://leetcode.com/u/R33tr0/">
+    <img src="https://img.shields.io/badge/LeetCode-2d2d2d?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codewars.com/users/R31tr0">
+    <img src="https://img.shields.io/badge/Codewars-2d2d2d?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:000000&height=100&section=footer" width="100%" />
 </div>
